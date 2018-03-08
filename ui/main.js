@@ -1,4 +1,4 @@
-//counter code
+// Counter code
 var button = document.getElementById('Counter');
 var counter = 0;
 
